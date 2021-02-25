@@ -1,0 +1,36 @@
+# dependencies
+frontend/node_modules
+frontend/.pnp
+frontend/.pnp.js
+
+# testing
+frontend/coverage
+
+# production
+frontend/build
+
+# misc
+frontend/.DS_Store
+frontend/.env.local
+frontend/.env.development.local
+frontend/.env.test.local
+frontend/.env.production.local
+
+frontend/npm-debug.log*
+frontend/yarn-debug.log*
+frontend/yarn-error.log*
+
+/////////////////////////////////////////////////////
+
+flight-number-task/node_modules
+flight-number-task/public/hot
+flight-number-task/public/storage
+flight-number-task/storage/*.key
+flight-number-task/vendor
+flight-number-task/.env
+flight-number-task/.env.backup
+flight-number-task/.phpunit.result.cache
+flight-number-task/Homestead.json
+flight-number-task/Homestead.yaml
+flight-number-task/npm-debug.log
+flight-number-task/yarn-error.log

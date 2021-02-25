@@ -1,0 +1,14 @@
+#card{
+    margin: auto ;
+    width: 38%;
+}
+.card-header{
+    font-weight: bold;
+    background-color: #000;
+    text-align: center;
+    color: #fff;
+    font-size: 1.5rem;
+}
+.list-group-item{
+    font-size: 1.25rem;
+}
